@@ -1,0 +1,16 @@
+img{
+  width:346px;
+  height:347px;
+  border:0;
+}
+
+body{
+  background-color: burlywood;
+}
+
+p{
+  font-family: 'Abel', sans-serif;
+  font-size:40px;
+  text-shadow: 4px 4px 4px #aaa;
+  font-style:italic;
+}

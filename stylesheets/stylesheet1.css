@@ -1,0 +1,13 @@
+body {         
+  background-color: bisque;
+ }
+img{
+  width: 200px;
+  height:400px;
+  float:right;
+}
+
+footer{
+  clear:both;
+  bottom:0;
+}
